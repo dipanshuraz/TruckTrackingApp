@@ -43,21 +43,23 @@ Open Here  -
 
 ### Tech / Stack:
 
- HTML5
- CSS3 
- JavaScript
- React 
- Redux & JSON
- Google Maps
+ - HTML5
+ - CSS3 
+ - JavaScript
+ - React 
+ - Redux & JSON
+ - Google Maps
+ - Date API (Moment JS)
+ - Ant Design UI Framework
  
 ### Features implemented:
-- [x] movies by Location
-- [x] Filter by genre and language.
-- [x] Select Movie & check details
-- [x] Select Seats & get Price
-- [x] Reset selection
-- [x] Confirm Bookings
-- [x] Print Tickets
+- [x] fetch truck details from API
+- [x] Filtering
+- [x] Search box
+- [x] Custom Marker on Map
+- [x] Truck Details
+
+
 
 
 ## Required UI : 
@@ -65,8 +67,8 @@ Open Here  -
 <br/>
 
 ## My UI :
-<br/>
-Step 1 : 
+
+Step 1 :
 ![Screenshot](./extra/1.png)
 Step 2 : 
 <br/>
